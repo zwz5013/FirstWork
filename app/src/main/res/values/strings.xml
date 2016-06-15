@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PickerDialog</string>
+    <string name="datepicker_cancle">取消</string>
+    <string name="datepicker_accept">完成</string>
+</resources>
